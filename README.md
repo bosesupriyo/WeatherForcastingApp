@@ -1,3 +1,24 @@
+Website Link -> https://bosesupriyo.github.io/WeatherForcastingApp/
+
+
+Output ->
+
+
+![1](https://github.com/bosesupriyo/WeatherForcastingApp/assets/124809398/7a4fa9d3-cae7-4ca2-8dc9-3fcf4ee083fc)
+
+![2](https://github.com/bosesupriyo/WeatherForcastingApp/assets/124809398/08f537cb-df81-4aa9-9cc2-891cc2b32551)
+
+
+Dark Mode ->
+
+![3](https://github.com/bosesupriyo/WeatherForcastingApp/assets/124809398/bc887b98-4816-401f-86ce-3d6b72d95756)
+
+![4](https://github.com/bosesupriyo/WeatherForcastingApp/assets/124809398/98a743f3-408c-45e7-93b2-b9de062274c7)
+
+
+
+
+
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
